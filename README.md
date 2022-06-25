@@ -7,6 +7,8 @@ This library enables to detect
 - an oblique image
 - an image whose size is different from a template
 
+<img src="https://user-images.githubusercontent.com/88654010/175755785-63e54176-6f85-454d-9a23-cc61202d1845.jpg" width="60%">
+
 ## Algorithm
 1. Detect edges of a camera image
 2. Find contours, curves joining all of the continuous points
