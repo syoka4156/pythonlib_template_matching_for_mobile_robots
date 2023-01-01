@@ -1,7 +1,9 @@
 # template_matching_algorithm
 
 ## Description
-This is a Python library that performs template matching.
+This is a Python library that performs template matching (implemented for [Seimitsu lab 2022](https://www.pemayfes.t.u-tokyo.ac.jp/2022/pc/)).
+
+you can watch a [youtube video](https://www.youtube.com/watch?v=VJ_TkAnpTyI) of this robot performimg this library.
 
 This library enables to detect
 - an oblique image
