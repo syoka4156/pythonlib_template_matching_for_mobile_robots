@@ -2,7 +2,8 @@
 
 ## Description
 This is a Python library that performs template matching (implemented for [Seimitsu lab 2022](https://www.pemayfes.t.u-tokyo.ac.jp/2022/pc/)).
-We won the first prize in [May festival](http://www.pe.t.u-tokyo.ac.jp/news/2022/20220516.html)
+
+We won the first prize in [May festival](http://www.pe.t.u-tokyo.ac.jp/news/2022/20220516.html).
 
 You can watch a [youtube video](https://www.youtube.com/watch?v=VJ_TkAnpTyI) of this robot performimg this library.
 
